@@ -1,0 +1,85 @@
+{
+    "id": "AllKompFr",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Allgemeine Kompetenzen Fremdsprachen"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v26",
+    "outDir": "./",
+    "idPattern": "^[abcdefghprqstuvxyz]{1}[2345679]{1}[abcdefghprqstuvxyz]{1}$",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "kd",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzbereich/Domäne"
+          }
+        ],
+        "filenameSource": "kd_Domaene.csv",
+        "filenameTarget": "kd_Domaene.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "lh",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Lese-/Hörstil"
+          }
+        ],
+        "filenameSource": "lh_Lese_Hoerstil.csv",
+        "filenameTarget": "lh_Lese_Hoerstil.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ng",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Niveaustufe GER"
+          }
+        ],
+        "filenameSource": "ng_Niveaustufe_GER.csv",
+        "filenameTarget": "ng_Niveaustufe_GER.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "nb",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Niveaustufe Bista"
+          }
+        ],
+        "filenameSource": "nb_Niveaustufe_Bista.csv",
+        "filenameTarget": "nb_Niveaustufe_Bista.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      }
+    ]
+  }
+  

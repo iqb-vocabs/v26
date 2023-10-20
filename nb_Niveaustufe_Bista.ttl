@@ -1,0 +1,94 @@
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>. 
+@prefix n0: <https://w3id.org/iqb/v26/nb/#>. 
+@prefix n1: <https://w3id.org/iqb/v26/nb/>. 
+
+n1:e6g
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "A1.1"@de.
+n1:y9q
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "A1.2"@de.
+n1:q4g
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "A2.1"@de.
+n1:f3v
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "A2.2"@de.
+n1:x9x
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "B1.1"@de.
+n1:v4p
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "B1.2"@de.
+n1:g5v
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "B2.1"@de.
+n1:q6b
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "B2.2"@de.
+n1:r5v
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "C1.1"@de.
+n1:a4g
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "C1.2"@de.
+n1:b6r
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "C2.1"@de.
+n1:d9g
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "C2.2"@de.
+n0:
+	a skos:ConceptScheme;
+	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
+	dct:title "Allgemeine Kompetenzen Fremdsprachen - Niveaustufe Bista"@de;
+	skos:hasTopConcept
+		n1:e6g,
+		n1:y9q,
+		n1:q4g,
+		n1:f3v,
+		n1:x9x,
+		n1:v4p,
+		n1:g5v,
+		n1:q6b,
+		n1:r5v,
+		n1:a4g,
+		n1:b6r,
+		n1:d9g.
