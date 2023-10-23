@@ -79,6 +79,23 @@
             "value": ""
           }
         ]
+      },
+      {
+        "id": "ea",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Schwierigkeit ex ante"
+          }
+        ],
+        "filenameSource": "ea_Schwierigkeit_ex_ante.csv",
+        "filenameTarget": "ea_Schwierigkeit_ex_ante.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
       }
     ]
   }
