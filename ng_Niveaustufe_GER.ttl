@@ -42,7 +42,7 @@ n1:d2t
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Allgemeine Kompetenzen Fremdsprachen - Niveaustufe GER Stimulus"@de;
+	dct:title "Allgemeine Kompetenzen Fremdsprachen - Niveaustufe GER"@de;
 	skos:hasTopConcept
 		n1:t7d,
 		n1:v4v,

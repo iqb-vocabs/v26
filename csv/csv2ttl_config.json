@@ -51,7 +51,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Niveaustufe GER Stimulus"
+            "value": "Niveaustufe GER"
           }
         ],
         "filenameSource": "ng_Niveaustufe_GER.csv",
@@ -85,7 +85,7 @@
         "title": [
           {
             "lang": "de",
-            "value": "Geschätze Schwierigkeit"
+            "value": "Geschätzte Schwierigkeit"
           }
         ],
         "filenameSource": "ea_Schwierigkeit.csv",
