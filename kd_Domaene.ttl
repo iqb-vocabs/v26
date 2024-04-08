@@ -15,10 +15,17 @@ n1:s3z
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Leseverstehen"@de.
+n1:v3r
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "";
+	skos:topConceptOf n0:;
+	skos:prefLabel "extra"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Allgemeine Kompetenzen Fremdsprachen - Kompetenzbereich/Domäne"@de;
 	skos:hasTopConcept
 		n1:y6h,
-		n1:s3z.
+		n1:s3z,
+		n1:v3r.
